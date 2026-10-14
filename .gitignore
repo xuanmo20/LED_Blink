@@ -1,0 +1,23 @@
+# Keil MDK
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+*.hex
+*.axf
+*.elf
+*.bak
+*.uvguix.*
+*.log
+*.map
+*.dep
+*.lnp
+*.htm
+*.sct
+*.dbgconf
+
+# CubeMX临时文件
+build/
+cmake-build*
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
